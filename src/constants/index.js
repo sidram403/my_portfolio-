@@ -236,5 +236,12 @@ export const projects = [
         description: 'Developed a 3D website optimized for iPhone using Three.js and GSAP.',
         link: 'https://i-phone-3-d-website-mu.vercel.app/',
     },
+    {
+        iconUrl: "https://static.vecteezy.com/system/resources/previews/013/471/460/original/3d-internet-icon-for-website-free-png.png",
+        theme: 'btn-back-pink',
+        name: 'Apple Vision Pro Website Clone',
+        description: 'Create Apple Vision Pro clone using HTML, CSS, Javascript, WebGL and GSAP.',
+        link: 'https://apple-vision-pro-two.vercel.app/',
+    },
     
 ];
