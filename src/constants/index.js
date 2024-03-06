@@ -240,8 +240,15 @@ export const projects = [
         iconUrl: "https://static.vecteezy.com/system/resources/previews/013/471/460/original/3d-internet-icon-for-website-free-png.png",
         theme: 'btn-back-pink',
         name: 'Apple Vision Pro Website Clone',
-        description: 'Create Apple Vision Pro clone using HTML, CSS, Javascript, WebGL and GSAP.',
+        description: 'Created Apple Vision Pro clone using HTML, CSS, Javascript, WebGL and GSAP.',
         link: 'https://apple-vision-pro-two.vercel.app/',
+    },
+    {
+        iconUrl: "https://static.vecteezy.com/system/resources/previews/013/471/460/original/3d-internet-icon-for-website-free-png.png",
+        theme: 'btn-back-pink',
+        name: '3D Shopping Website',
+        description: 'Created 3D Shopping Website using Three.js integrated with OpenAI',
+        link: 'https://3d-shopping-website.netlify.app/',
     },
     
 ];
