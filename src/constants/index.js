@@ -119,7 +119,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Founder & CEO",
+        title: "Full Stack Developer",
         company_name: "RentNest",
         icon: rentnest,
         iconBg: "#fff",
