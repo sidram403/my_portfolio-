@@ -8,6 +8,7 @@ import { experiences, skills } from "../constants";
 
 import "react-vertical-timeline-component/style.min.css";
 import { Tooltip } from "@mui/material";
+import Testimonails from "./Testimonails";
 
 const About = () => {
   return (
@@ -107,7 +108,7 @@ const About = () => {
         </div>
       </div>
 
-      <hr className='border-slate-200' />
+      <Testimonails />
 
       <CTA />
     </section>
