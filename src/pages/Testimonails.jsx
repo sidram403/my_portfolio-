@@ -5,17 +5,20 @@ const Testimonails = () => {
     <section
       id="testimonials"
       aria-label="What our customers are saying"
-      className=" py-24 "
+      className="py-36 md:py-24  "
     >
-      <div className="mx-auto max-w-7xl px-2 sm:px-3 lg:px-4">
-        <div className="mx-auto max-w-2xl md:text-center">
-          <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-          Voices of Experience
+      <div className="mx-auto max-w-7xl px-4 sm:px-4 lg:px-4">
+        <div className="mx-auto max-w-2xl text-center items-center">
+          <h2 className="font-display text-3xl tracking-tight head-text text-slate-900 sm:text-4xl">
+            Voices of{" "}
+            <span className="blue-gradient_text drop-shadow font-semibold">
+              Experience
+            </span>
           </h2>
         </div>
         <ul
           role="list"
-          className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:gap-8 lg:mt-20 lg:max-w-none lg:grid-cols-2"
+          className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-6 sm:gap-8 lg:mt-20 lg:max-w-none lg:grid-cols-2"
         >
           <li>
             <ul role="list" className="flex flex-col gap-y-6 sm:gap-y-8">
@@ -48,10 +51,10 @@ const Testimonails = () => {
                         Suyodh Kittur
                       </div>
                       <div className="text-sm mt-1">
-                      Co-founder & VP of Engineering
+                        Co-founder & VP of Engineering
                       </div>
                     </div>
-                    
+
                     <div className="overflow-hidden rounded-full bg-slate-50">
                       <img
                         alt=""
@@ -95,7 +98,7 @@ const Testimonails = () => {
                         Ambarish Bhagawati{" "}
                       </div>
                       <div className="text-sm mt-1">
-                      Engineer-Cloud Services and Software | Salesforce
+                        Engineer-Cloud Services and Software | Salesforce
                       </div>
                     </div>
                     <div className="overflow-hidden rounded-full bg-slate-50">
@@ -140,7 +143,7 @@ const Testimonails = () => {
                         Maning More
                       </div>
                       <div className="text-sm mt-1">
-                      Experienced QA Engineer
+                        Experienced QA Engineer
                       </div>
                     </div>
                     <div className="overflow-hidden rounded-full bg-slate-50">
@@ -180,9 +183,7 @@ const Testimonails = () => {
                       <div className="font-display font-bold text-slate-900">
                         Sourabh Zutti
                       </div>
-                      <div className="text-sm mt-1">
-                      Driving Digital Growth
-                      </div>
+                      <div className="text-sm mt-1">Driving Digital Growth</div>
                     </div>
                     <div className="overflow-hidden rounded-full bg-slate-50">
                       <img

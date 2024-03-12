@@ -34,7 +34,7 @@ const About = () => {
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
             <Tooltip title={skill.name}>
-            <div className='block-container w-20 h-20' key={skill.name} tooltip="">
+            <div className='block-container w-16 h-20' key={skill.name} tooltip="">
               <div className='btn-back rounded-xl' />
               <div className='btn-front rounded-xl flex justify-center items-center'>
                 <img
@@ -49,7 +49,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className='py-16'>
+      <div className='py-8 md:py-16'>
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
