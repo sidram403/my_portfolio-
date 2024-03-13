@@ -47,8 +47,13 @@ const Testimonails = () => {
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
-                      <div className="font-display font-bold text-slate-900">
-                        Suyodh Kittur
+                      <div className="font-display flex items-center font-bold text-slate-900">
+                        <div>
+                        Suyodh Kittur 
+                        </div>
+                        <div style={{marginLeft:"5px"}}>
+                        <a target="_blank" href="https://www.linkedin.com/in/suyodh-kittur/" > <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkdin" style={{width:"18px"}} /></a>
+                        </div>
                       </div>
                       <div className="text-sm mt-1">
                         Co-founder & VP of Engineering
@@ -94,8 +99,14 @@ const Testimonails = () => {
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
-                      <div className="font-display font-bold text-slate-900">
+                      <div className="font-display flex items-center font-bold text-slate-900">
+                        <div>
                         Ambarish Bhagawati{" "}
+
+                        </div>
+                        <div style={{marginLeft:"5px"}}>
+                        <a target="_blank" href="https://www.linkedin.com/in/ambarish-bhagawati/" > <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkdin" style={{width:"18px"}} /></a>
+                        </div>
                       </div>
                       <div className="text-sm mt-1">
                         Engineer-Cloud Services and Software | Salesforce
@@ -139,8 +150,13 @@ const Testimonails = () => {
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
-                      <div className="font-display font-bold text-slate-900">
+                      <div className="font-display flex items-center font-bold text-slate-900">
+                        <div>
                         Maning More
+                        </div>
+                        <div style={{marginLeft:"5px"}}>
+                        <a target="_blank" href="https://www.linkedin.com/in/maning-more-a50a5223a/" > <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkdin" style={{width:"18px"}} /></a>
+                        </div>
                       </div>
                       <div className="text-sm mt-1">
                         Experienced QA Engineer
@@ -180,8 +196,13 @@ const Testimonails = () => {
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
-                      <div className="font-display font-bold text-slate-900">
+                      <div className="font-display flex items-center font-bold text-slate-900">
+                        <div>
                         Sourabh Zutti
+                        </div>
+                        <div style={{marginLeft:"5px"}}>
+                        <a target="_blank" href="https://www.linkedin.com/in/sourabh-zutti/" > <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkdin" style={{width:"18px"}} /></a>
+                        </div>
                       </div>
                       <div className="text-sm mt-1">Driving Digital Growth</div>
                     </div>
